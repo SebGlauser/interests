@@ -1,15 +1,18 @@
-#Interest
+# Interest
+
+This git contains: 
+
+-  [Youtube channels](https://github.com/SebGlauser/interests/blob/master/YOUTUBE.md) 
+- [Linux application](https://github.com/SebGlauser/interests/blob/master/LINUX.md) 
 
 
-
-
-##To Try
+## To Try
 
 - [Grafana](https://grafana.com/): is an open platform analytics and monitoring
 
-##To read
+## To read
 
-###DNN
+### DNN
 
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) 
 - [FPGA Acceleration of Binary Neural Networks - Nallatech](https://www.nallatech.com/fpga-acceleration-binary-neural-networks/) 
