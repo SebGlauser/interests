@@ -23,3 +23,5 @@ This git contains:
 #### Quantization
 
 - [A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/pdf/1808.04752.pdf) 
+- [NEURAghe](https://arxiv.org/pdf/1712.00994.pdf)
+
